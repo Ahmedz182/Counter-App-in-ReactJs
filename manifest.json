@@ -1,6 +1,6 @@
 {
   "short_name": "Counter App",
-  "name": "Install React Counter App",
+  "name": "React Counter App",
   "icons": [
     {
       "src": "favicon.ico",
